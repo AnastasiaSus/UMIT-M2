@@ -3,7 +3,7 @@ const bodyParser = require('body-parser');
 const auxiliaryAPI = require('./public/js/auxiliaryAPI.js')
 
 const {urlencoded, json} = bodyParser;
-const port = process.env.PORT || 8080;
+const port = process.env.PORT || 8026;
 
 // initialize
 const app = express();

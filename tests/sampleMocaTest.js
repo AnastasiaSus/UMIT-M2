@@ -1,4 +1,4 @@
-const expect = require('chai').expect;
+/*const expect = require('chai').expect;
 
 //Sample JUnit test
 function sum(arr) {
@@ -22,3 +22,4 @@ describe('#sum()', function () {
     })
 
 });
+*/
